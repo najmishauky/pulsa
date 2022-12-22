@@ -1,0 +1,15 @@
+.pulsa:hover{
+    cursor: pointer;
+}
+.satu:hover{
+    border: 2px solid rgb(255, 2, 78);
+}
+.wadah{
+    background-color:white;
+}
+body{
+    background-color: rgb(226, 226, 226);
+}
+h1{
+    font-family: sans-serif;
+}
